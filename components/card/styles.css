@@ -1,0 +1,18 @@
+div {
+  background-color: #73d677;
+  width: 234px;
+  height: 236px;
+  margin-right:184px;
+}
+img {
+  width: 156px;
+  height: 140px;
+  padding-top: 37px;
+  padding-left: 39px;
+  padding-right: 39px;
+}
+p {
+    position: absolute;
+    padding-top: 199px;
+    padding-left: 75px;
+}
